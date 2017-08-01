@@ -42,7 +42,7 @@ Click the button below to animate the background:
 </script>
 ```
 
-There are 5 properties to describe CSS transitions:
+There are 4 properties to describe CSS transitions:
 
 - `transition-property`
 - `transition-duration`
